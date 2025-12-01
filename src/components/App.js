@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import "./../styles/App.css";
 
-// ---------- GIVEN DATA ----------
 const states = [{
     name: "Madhya Pradesh",
     description: "Madhya Pradesh, a large state in central India, retains landmarks from eras throughout Indian history.",
@@ -137,15 +136,11 @@ const states = [{
     }]
 }];
 
-
-// ------------------ MAIN COMPONENT --------------------
 function App() {
-    // DEFAULT selections (index 0 of each)
     const [stateIndex, setStateIndex] = useState(0);
     const [cityIndex, setCityIndex] = useState(0);
     const [landmarkIndex, setLandmarkIndex] = useState(0);
 
-    // When state changes → reset city + landmark
     const handleStateChange = (e) => {
         const idx = Number(e.target.value);
         setStateIndex(idx);
@@ -153,7 +148,6 @@ function App() {
         setLandmarkIndex(0);
     };
 
-    // When city changes → reset landmark
     const handleCityChange = (e) => {
         const idx = Number(e.target.value);
         setCityIndex(idx);
@@ -163,21 +157,18 @@ function App() {
     return (
         <div id="main" style={{ padding: "20px" }}>
 
-            {/* ---------- STATE DROPDOWN ---------- */}
             <select id="state" value={stateIndex} onChange={handleStateChange}>
                 {states.map((st, i) => (
                     <option key={i} value={i}>{st.name}</option>
                 ))}
             </select>
 
-            {/* ---------- CITY DROPDOWN ---------- */}
             <select id="city" value={cityIndex} onChange={handleCityChange}>
                 {states[stateIndex].city.map((ct, i) => (
                     <option key={i} value={i}>{ct.name}</option>
                 ))}
             </select>
 
-            {/* ---------- LANDMARK DROPDOWN ---------- */}
             <select
                 id="landmark"
                 value={landmarkIndex}
@@ -187,8 +178,6 @@ function App() {
                     <option key={i} value={i}>{lm.name}</option>
                 ))}
             </select>
-
-            {/* ---------- DISPLAY SELECTED DETAILS ---------- */}
 
             <h3 id="state-name">{states[stateIndex].name}</h3>
             <p id="state-description">{states[stateIndex].description}</p>
