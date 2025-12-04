@@ -102,7 +102,7 @@ const states = [{
     }]
 }, {
     name: "Bihar",
-    description: "Bihar is a state in East India...",
+    description: "Bihar is a state in East India, bordering Nepal. It is divided by the River Ganges, which floods its fertile plains. Important Buddhist pilgrimage sites include the Bodhi Tree in Bodhgaya\'s Mahabodhi Temple, under which the Buddha allegedly meditated.",
     city: [{
         name: "Patna",
         description: "Patna is an ancient city along the Ganges...",
