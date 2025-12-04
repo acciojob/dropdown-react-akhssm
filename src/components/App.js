@@ -111,7 +111,7 @@ const states = [{
             description: "Sonpur is a city and sub-division in the Indian state of Bihar, situated on the banks of the River Gandak and Ganges River in the Saran District."
         }, {
             name: "Maner",
-            description: "Maner also spelled Maner Sharif..."
+            description: "Maner also spelled Maner or Maner Sharif, is a satellite landmark in Patna Metropolitan Region, in the Patna district in the Indian state of Bihar. Maner Sharif lies 24 km west of Patna the capital of Bihar on National Highway 30."
         }]
     }, {
         name: "Gaya",
