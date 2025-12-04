@@ -12,7 +12,7 @@ const states = [{
             description: "Dr. Ambedkar Nagar, commonly known as Mhow, is a cantonment in the Indore district in Madhya Pradesh state of India. It is located 23 kilometres south-west of Indore city, towards Mumbai on the old Mumbai-Agra Road."
         }, {
             name: "Dewas",
-            description: "Dewas is a city in the Malwa region..."
+            description: "Dewas is a city in the Malwa region of the Indian state of Madhya Pradesh. The municipality was formerly the seat of two princely states during the British Raj, Dewas Junior state and Dewas Senior state, ruled by the Puar clan of Maratha."
         }]
     }, {
         name: "Bhopal",
