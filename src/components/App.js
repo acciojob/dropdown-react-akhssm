@@ -121,7 +121,7 @@ const states = [{
             description: "Bakraur, sometimes called Bakrour, is a village located slightly east of Bodh Gaya in the state of Bihar, India. It lies directly across the Phalgu River from the landmark of Bodh Gaya, where Gautama Buddha is said to have attained enlightenment."
         }, {
             name: "Barachatti",
-            description: "Barachatti is a block in Gaya district..."
+            description: "Barachatti is a block in the Gaya district of Bihar, India. Barachatti contains 141 villages and 13 gram panchayat. Sarwan bazar is the biggest and Nimi is the smallest village of Barachatti. The total population in Barachatti sub-district is 142,534 according to the census during 2011 by Indian Government."
         }]
     }, {
         name: "Darbhanga",
