@@ -26,7 +26,7 @@ const states = [{
         }]
     }, {
         name: "Gwalior",
-        description: "Gwalior is a city in the central Indian state...",
+        description: "Gwalior is a city in the central Indian state of Madhya Pradesh. It\'s known for its palaces and temples, including the Sas Bahu Ka Mandir intricately carved Hindu temple. ",
         landmarks: [{
             name: "Ajaypur",
             description: "Little less known city Ajaypur."
