@@ -108,7 +108,7 @@ const states = [{
         description: "Patna is an ancient city that sprawls along the south bank of the Ganges River in Bihar, northeast India.",
         landmarks: [{
             name: "Sonpur",
-            description: "Sonpur is a city and sub-division..."
+            description: "Sonpur is a city and sub-division in the Indian state of Bihar, situated on the banks of the River Gandak and Ganges River in the Saran District."
         }, {
             name: "Maner",
             description: "Maner also spelled Maner Sharif..."
