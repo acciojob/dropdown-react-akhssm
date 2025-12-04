@@ -131,7 +131,7 @@ const states = [{
             description: "Famous for its Groundnut Market"
         }, {
             name: "Jale",
-            description: "Famous for its roasted seeds market."
+            description: "Famous for its roasted seads market."
         }]
     }]
 }];
