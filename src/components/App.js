@@ -115,7 +115,7 @@ const states = [{
         }]
     }, {
         name: "Gaya",
-        description: "Gaya is a holy city beside the Falgu River...",
+        description: "Gaya is a holy city beside the Falgu River, in the northeast Indian state of Bihar. It\'s known for 18th-century Vishnupad Mandir, a riverside temple with an octagonal shrine. Close by, ancient Mangla Gauri Temple is set on a hilltop. ",
         landmarks: [{
             name: "Bakraur",
             description: "Bakraur is a village located near Bodh Gaya..."
