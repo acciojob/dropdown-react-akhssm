@@ -57,7 +57,7 @@ const states = [{
         }]
     }, {
         name: "Hazaribagh",
-        description: "Hazaribagh is a city and a municipal corporation...",
+        description: "Hazaribagh is a city and a municipal corporation in Hazaribagh district in the Indian state of Jharkhand. It is the divisional headquarters of North Chotanagpur division.",
         landmarks: [{
             name: "Shaheed Nirmal Mahto Park",
             description: "Famous for its giant dinosaur structure"
