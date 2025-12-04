@@ -43,7 +43,7 @@ const states = [{
             description: "Indian Institute of Technology (Indian School of Mines) Dhanbad is a public technical and research university located in Dhanbad, India. It is an Institute of National Importance. IIT has 18 academic departments covering Engineering,"
         }, {
             name: "Hirapur",
-            description: "Hirapur is a census landmark..."
+            description: "Hirapur is a census landmark in Balaghat district in the Indian state of Madhya Pradesh."
         }]
     }, {
         name: "Wasseypur",
