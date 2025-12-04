@@ -77,7 +77,7 @@ const states = [{
             description: "Famous because of PVR city center."
         }, {
             name: "Kalyani Nagar",
-            description: "Located near famous Lakshmi Nagar"
+            description: "located near famous Lakshmi Nagar"
         }]
     }, {
         name: "dimapur",
