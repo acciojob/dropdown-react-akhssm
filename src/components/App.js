@@ -87,7 +87,7 @@ const states = [{
             description: "Giant Tower standing by the road since history."
         }, {
             name: "Sunday Market",
-            description: "Famous for its weekend sale..."
+            description: "Famous for its weekend Sale on all items."
         }]
     }, {
         name: "Tezpur",
