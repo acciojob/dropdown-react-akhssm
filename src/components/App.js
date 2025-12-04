@@ -182,7 +182,7 @@ function App() {
             <h3 id="state-title">{states[stateIndex].name}</h3>
             <p id="state-description">{states[stateIndex].description}</p>
 
-            <h3 id="city-name">{states[stateIndex].city[cityIndex].name}</h3>
+            <h3 id="city-title">{states[stateIndex].city[cityIndex].name}</h3>
             <p id="city-description">{states[stateIndex].city[cityIndex].description}</p>
 
             <h3 id="landmark-name">
