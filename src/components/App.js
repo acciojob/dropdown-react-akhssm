@@ -37,7 +37,7 @@ const states = [{
     description: "Jharkhand is a state in eastern India. It\'s known for its waterfalls, the elegant Jain temples of Parasnath Hill and the elephants and tigers of Betla National Park.",
     city: [{
         name: "Dhanbad",
-        description: "Dhanbad is the second-most populated city...",
+        description: "Dhanbad is the second-most populated city in the Indian state of Jharkhand. It ranks as the 33rd largest city in India and is the 42nd largest million-plus urban agglomeration in India. It is the 96th fastest growing urban area of the world by the City Mayors Foundation.",
         landmarks: [{
             name: "IIT(ISM) Dhanbad",
             description: "Indian Institute of Technology Dhanbad..."
