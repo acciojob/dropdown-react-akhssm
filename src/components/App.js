@@ -179,7 +179,7 @@ function App() {
                 ))}
             </select>
 
-            <h3 id="state-name">{states[stateIndex].name}</h3>
+            <h3 id="state-title">{states[stateIndex].name}</h3>
             <p id="state-description">{states[stateIndex].description}</p>
 
             <h3 id="city-name">{states[stateIndex].city[cityIndex].name}</h3>
