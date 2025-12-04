@@ -91,7 +91,7 @@ const states = [{
         }]
     }, {
         name: "Tezpur",
-        description: "Tezpur is a landmark and urban agglomeration...",
+        description: "Tezpur is a landmark and urban agglomeration in Sonitpur district, Assam state, India. Tezpur is located on the banks of the river Brahmaputra, 175 kilometres northeast of Guwahati, and is the largest of the north bank landmarks with a population exceeding 100,000 as per Metropolitan Census 2011.",
         landmarks: [{
             name: "Bamuni Hills",
             description: "Best location for photoshoots"
