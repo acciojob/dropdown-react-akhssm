@@ -40,7 +40,7 @@ const states = [{
         description: "Dhanbad is the second-most populated city in the Indian state of Jharkhand. It ranks as the 33rd largest city in India and is the 42nd largest million-plus urban agglomeration in India. It is the 96th fastest growing urban area of the world by the City Mayors Foundation.",
         landmarks: [{
             name: "IIT(ISM) Dhanbad",
-            description: "Indian Institute of Technology Dhanbad..."
+            description: "Indian Institute of Technology (Indian School of Mines) Dhanbad is a public technical and research university located in Dhanbad, India. It is an Institute of National Importance. IIT has 18 academic departments covering Engineering,"
         }, {
             name: "Hirapur",
             description: "Hirapur is a census landmark..."
