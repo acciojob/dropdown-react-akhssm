@@ -81,7 +81,7 @@ const states = [{
         }]
     }, {
         name: "dimapur",
-        description: "Dimapur is a city in Nagaland, India...",
+        description: "Dimapur is a city in Nagaland, India. It is the most populous city of Nagaland and also the most densely populated city in the state with an estimated population of about 250,000.",
         landmarks: [{
             name: "City Tower",
             description: "Giant Tower standing by the road..."
